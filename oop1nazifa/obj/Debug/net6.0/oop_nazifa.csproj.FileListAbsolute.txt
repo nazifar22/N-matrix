@@ -1,0 +1,143 @@
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\oop_nazifa.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\oop_nazifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\oop_nazifa.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\oop_nazifa.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\oop_nazifa.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\bin\Debug\net6.0\oop_nazifa.exe
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\bin\Debug\net6.0\oop_nazifa.deps.json
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\bin\Debug\net6.0\oop_nazifa.runtimeconfig.json
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\bin\Debug\net6.0\oop_nazifa.dll
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\bin\Debug\net6.0\oop_nazifa.pdb
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\oop_nazifa.dll
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\refint\oop_nazifa.dll
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\oop_nazifa.pdb
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\oop_nazifa.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\ref\oop_nazifa.dll
+C:\Users\ASUS\Desktop\hw1oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\hw1oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\hw1oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\hw1oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\hw1oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\hw1oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.dll
+C:\Users\ASUS\Desktop\hw1oop\oop1nazifa\obj\Debug\net6.0\refint\oop_nazifa.dll
+C:\Users\ASUS\Desktop\hw1oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.pdb
+C:\Users\Mohammed Efaz\Downloads\oop\oop1nazifa\bin\Debug\net6.0\oop_nazifa.exe
+C:\Users\Mohammed Efaz\Downloads\oop\oop1nazifa\bin\Debug\net6.0\oop_nazifa.deps.json
+C:\Users\Mohammed Efaz\Downloads\oop\oop1nazifa\bin\Debug\net6.0\oop_nazifa.runtimeconfig.json
+C:\Users\Mohammed Efaz\Downloads\oop\oop1nazifa\bin\Debug\net6.0\oop_nazifa.dll
+C:\Users\Mohammed Efaz\Downloads\oop\oop1nazifa\bin\Debug\net6.0\oop_nazifa.pdb
+C:\Users\Mohammed Efaz\Downloads\oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.AssemblyReference.cache
+C:\Users\Mohammed Efaz\Downloads\oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed Efaz\Downloads\oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfoInputs.cache
+C:\Users\Mohammed Efaz\Downloads\oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfo.cs
+C:\Users\Mohammed Efaz\Downloads\oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Efaz\Downloads\oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.dll
+C:\Users\Mohammed Efaz\Downloads\oop\oop1nazifa\obj\Debug\net6.0\refint\oop_nazifa.dll
+C:\Users\Mohammed Efaz\Downloads\oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.pdb
+C:\Users\Mohammed Efaz\Downloads\oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.genruntimeconfig.cache
+C:\Users\Mohammed Efaz\Downloads\oop\oop1nazifa\obj\Debug\net6.0\ref\oop_nazifa.dll
+C:\Users\ASUS\Desktop\oop\oop1nazifa\bin\Debug\net6.0\oop_nazifa.exe
+C:\Users\ASUS\Desktop\oop\oop1nazifa\bin\Debug\net6.0\oop_nazifa.deps.json
+C:\Users\ASUS\Desktop\oop\oop1nazifa\bin\Debug\net6.0\oop_nazifa.runtimeconfig.json
+C:\Users\ASUS\Desktop\oop\oop1nazifa\bin\Debug\net6.0\oop_nazifa.dll
+C:\Users\ASUS\Desktop\oop\oop1nazifa\bin\Debug\net6.0\oop_nazifa.pdb
+C:\Users\ASUS\Desktop\oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.dll
+C:\Users\ASUS\Desktop\oop\oop1nazifa\obj\Debug\net6.0\refint\oop_nazifa.dll
+C:\Users\ASUS\Desktop\oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.pdb
+C:\Users\ASUS\Desktop\oop\oop1nazifa\obj\Debug\net6.0\oop_nazifa.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\oop\oop1nazifa\obj\Debug\net6.0\ref\oop_nazifa.dll
+C:\Users\ASUS\Desktop\2nd semester\OOP LAB (c#)\assignments\oop1 (w8czne)\oop1nazifa\bin\Debug\net6.0\oop_nazifa.exe
+C:\Users\ASUS\Desktop\2nd semester\OOP LAB (c#)\assignments\oop1 (w8czne)\oop1nazifa\bin\Debug\net6.0\oop_nazifa.deps.json
+C:\Users\ASUS\Desktop\2nd semester\OOP LAB (c#)\assignments\oop1 (w8czne)\oop1nazifa\bin\Debug\net6.0\oop_nazifa.runtimeconfig.json
+C:\Users\ASUS\Desktop\2nd semester\OOP LAB (c#)\assignments\oop1 (w8czne)\oop1nazifa\bin\Debug\net6.0\oop_nazifa.dll
+C:\Users\ASUS\Desktop\2nd semester\OOP LAB (c#)\assignments\oop1 (w8czne)\oop1nazifa\bin\Debug\net6.0\oop_nazifa.pdb
+C:\Users\ASUS\Desktop\2nd semester\OOP LAB (c#)\assignments\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\2nd semester\OOP LAB (c#)\assignments\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\2nd semester\OOP LAB (c#)\assignments\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\2nd semester\OOP LAB (c#)\assignments\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\2nd semester\OOP LAB (c#)\assignments\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\2nd semester\OOP LAB (c#)\assignments\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.dll
+C:\Users\ASUS\Desktop\2nd semester\OOP LAB (c#)\assignments\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\refint\oop_nazifa.dll
+C:\Users\ASUS\Desktop\2nd semester\OOP LAB (c#)\assignments\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.pdb
+C:\Users\ASUS\Desktop\2nd semester\OOP LAB (c#)\assignments\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\2nd semester\OOP LAB (c#)\assignments\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\ref\oop_nazifa.dll
+C:\Users\Mohammed Efaz\Downloads\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\bin\Debug\net6.0\oop_nazifa.exe
+C:\Users\Mohammed Efaz\Downloads\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\bin\Debug\net6.0\oop_nazifa.deps.json
+C:\Users\Mohammed Efaz\Downloads\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\bin\Debug\net6.0\oop_nazifa.runtimeconfig.json
+C:\Users\Mohammed Efaz\Downloads\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\bin\Debug\net6.0\oop_nazifa.dll
+C:\Users\Mohammed Efaz\Downloads\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\bin\Debug\net6.0\oop_nazifa.pdb
+C:\Users\Mohammed Efaz\Downloads\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.AssemblyReference.cache
+C:\Users\Mohammed Efaz\Downloads\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed Efaz\Downloads\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfoInputs.cache
+C:\Users\Mohammed Efaz\Downloads\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfo.cs
+C:\Users\Mohammed Efaz\Downloads\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Efaz\Downloads\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.dll
+C:\Users\Mohammed Efaz\Downloads\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\refint\oop_nazifa.dll
+C:\Users\Mohammed Efaz\Downloads\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.pdb
+C:\Users\Mohammed Efaz\Downloads\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.genruntimeconfig.cache
+C:\Users\Mohammed Efaz\Downloads\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\ref\oop_nazifa.dll
+C:\Users\ASUS\Downloads\oop1 (w8czne) (1)\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\bin\Debug\net6.0\oop_nazifa.exe
+C:\Users\ASUS\Downloads\oop1 (w8czne) (1)\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\bin\Debug\net6.0\oop_nazifa.deps.json
+C:\Users\ASUS\Downloads\oop1 (w8czne) (1)\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\bin\Debug\net6.0\oop_nazifa.runtimeconfig.json
+C:\Users\ASUS\Downloads\oop1 (w8czne) (1)\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\bin\Debug\net6.0\oop_nazifa.dll
+C:\Users\ASUS\Downloads\oop1 (w8czne) (1)\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\bin\Debug\net6.0\oop_nazifa.pdb
+C:\Users\ASUS\Downloads\oop1 (w8czne) (1)\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\oop1 (w8czne) (1)\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\oop1 (w8czne) (1)\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\oop1 (w8czne) (1)\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\oop1 (w8czne) (1)\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\oop1 (w8czne) (1)\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.dll
+C:\Users\ASUS\Downloads\oop1 (w8czne) (1)\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\refint\oop_nazifa.dll
+C:\Users\ASUS\Downloads\oop1 (w8czne) (1)\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.pdb
+C:\Users\ASUS\Downloads\oop1 (w8czne) (1)\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\oop_nazifa.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\oop1 (w8czne) (1)\oop1 (w8czne)\oop1 (w8czne)\oop1nazifa\obj\Debug\net6.0\ref\oop_nazifa.dll
+C:\Users\Asus\Downloads\oop1nazifa\oop1nazifa\bin\Debug\net6.0\oop_nazifa.exe
+C:\Users\Asus\Downloads\oop1nazifa\oop1nazifa\bin\Debug\net6.0\oop_nazifa.deps.json
+C:\Users\Asus\Downloads\oop1nazifa\oop1nazifa\bin\Debug\net6.0\oop_nazifa.runtimeconfig.json
+C:\Users\Asus\Downloads\oop1nazifa\oop1nazifa\bin\Debug\net6.0\oop_nazifa.dll
+C:\Users\Asus\Downloads\oop1nazifa\oop1nazifa\bin\Debug\net6.0\oop_nazifa.pdb
+C:\Users\Asus\Downloads\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfo.cs
+C:\Users\Asus\Downloads\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.dll
+C:\Users\Asus\Downloads\oop1nazifa\oop1nazifa\obj\Debug\net6.0\refint\oop_nazifa.dll
+C:\Users\Asus\Downloads\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.pdb
+C:\Users\Asus\Downloads\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.genruntimeconfig.cache
+C:\Users\Asus\Downloads\oop1nazifa\oop1nazifa\obj\Debug\net6.0\ref\oop_nazifa.dll
+C:\Users\Mohammed Efaz\Downloads\oop1nazifa\oop1nazifa\oop1nazifa\bin\Debug\net6.0\oop_nazifa.exe
+C:\Users\Mohammed Efaz\Downloads\oop1nazifa\oop1nazifa\oop1nazifa\bin\Debug\net6.0\oop_nazifa.deps.json
+C:\Users\Mohammed Efaz\Downloads\oop1nazifa\oop1nazifa\oop1nazifa\bin\Debug\net6.0\oop_nazifa.runtimeconfig.json
+C:\Users\Mohammed Efaz\Downloads\oop1nazifa\oop1nazifa\oop1nazifa\bin\Debug\net6.0\oop_nazifa.dll
+C:\Users\Mohammed Efaz\Downloads\oop1nazifa\oop1nazifa\oop1nazifa\bin\Debug\net6.0\oop_nazifa.pdb
+C:\Users\Mohammed Efaz\Downloads\oop1nazifa\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.AssemblyReference.cache
+C:\Users\Mohammed Efaz\Downloads\oop1nazifa\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed Efaz\Downloads\oop1nazifa\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfoInputs.cache
+C:\Users\Mohammed Efaz\Downloads\oop1nazifa\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfo.cs
+C:\Users\Mohammed Efaz\Downloads\oop1nazifa\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Efaz\Downloads\oop1nazifa\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.dll
+C:\Users\Mohammed Efaz\Downloads\oop1nazifa\oop1nazifa\oop1nazifa\obj\Debug\net6.0\refint\oop_nazifa.dll
+C:\Users\Mohammed Efaz\Downloads\oop1nazifa\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.pdb
+C:\Users\Mohammed Efaz\Downloads\oop1nazifa\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.genruntimeconfig.cache
+C:\Users\Mohammed Efaz\Downloads\oop1nazifa\oop1nazifa\oop1nazifa\obj\Debug\net6.0\ref\oop_nazifa.dll
+C:\Users\ASUS\Desktop\oop1nazifa\oop1nazifa\bin\Debug\net6.0\oop_nazifa.exe
+C:\Users\ASUS\Desktop\oop1nazifa\oop1nazifa\bin\Debug\net6.0\oop_nazifa.deps.json
+C:\Users\ASUS\Desktop\oop1nazifa\oop1nazifa\bin\Debug\net6.0\oop_nazifa.runtimeconfig.json
+C:\Users\ASUS\Desktop\oop1nazifa\oop1nazifa\bin\Debug\net6.0\oop_nazifa.dll
+C:\Users\ASUS\Desktop\oop1nazifa\oop1nazifa\bin\Debug\net6.0\oop_nazifa.pdb
+C:\Users\ASUS\Desktop\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.dll
+C:\Users\ASUS\Desktop\oop1nazifa\oop1nazifa\obj\Debug\net6.0\refint\oop_nazifa.dll
+C:\Users\ASUS\Desktop\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.pdb
+C:\Users\ASUS\Desktop\oop1nazifa\oop1nazifa\obj\Debug\net6.0\oop_nazifa.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\oop1nazifa\oop1nazifa\obj\Debug\net6.0\ref\oop_nazifa.dll

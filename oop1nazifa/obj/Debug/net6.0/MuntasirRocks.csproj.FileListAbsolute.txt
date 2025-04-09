@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\bin\Debug\net6.0\MuntasirRocks.exe
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\bin\Debug\net6.0\MuntasirRocks.deps.json
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\bin\Debug\net6.0\MuntasirRocks.runtimeconfig.json
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\bin\Debug\net6.0\MuntasirRocks.dll
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\bin\Debug\net6.0\MuntasirRocks.pdb
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\MuntasirRocks.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\MuntasirRocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\MuntasirRocks.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\MuntasirRocks.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\MuntasirRocks.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\MuntasirRocks.dll
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\refint\MuntasirRocks.dll
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\MuntasirRocks.pdb
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\MuntasirRocks.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\hw1oop\MuntasirRocks\obj\Debug\net6.0\ref\MuntasirRocks.dll
